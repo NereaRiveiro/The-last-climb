@@ -62,7 +62,11 @@ Sobre las muertes registradas, vemos que el Everest es el que más tiene con dif
 
 Nepal aparece como país con más registros de nacionalidades fallecidas. Es un valor adecuado ya que se cuentan en este registro tanto los fallecimientos de escaladores como de sherpas, siendo estos últimos de mayoría procedente de la misma zona. Le continuan Japón, Corea del sur y España, países con mucha tradición de montaña y escalada.
 
-Gracias al segundo dashbord se pueden analizar más en profundidad cada una de las cumbres. De ella podemos destacar cómo las que se encuentran hacia el noroeste coinciden con el mes más mortal julio. 
+Gracias al segundo dashbord se pueden analizar más en profundidad cada una de las cumbres. De ella podemos destacar cómo las que se encuentran hacia el noroeste coinciden con el mes más mortal julio y el resto, hacia el sureste en mayo. 
+
+También podemos observar el riesgo más común en cada una siendo casi un 50% de ellas entre avalancha y caída como la más frecuente.
+
+En perspectiva, el proyecto tiene el objetico de enfocarse con una funcionalidad hacia la creación de una app en la que montañistas puedan observar gráficas de su objetivo y analizar su escalada en cuestión de época, precauciones y destino. Se facilitaría así un recurso mediante el cual tener mayor acceso al análisis de la aventura de altura.
 
 
 ## 🧊 Estructura:<a name="estructura"/>
@@ -71,8 +75,9 @@ Gracias al segundo dashbord se pueden analizar más en profundidad cada una de l
 Proyecto 
 |__ DATA/                         # contiene datos limpios de jupyter notebook y los csv limpios
 |
-|__ IMAGES/                       # contiene imagénes referentes al proyecto y de los dashboards   
+|__ IMAGES/                       # contiene imagénes referentes al proyecto    
 |
+|___DASHBOARDS/                   # dashboards de power bi 
 |
 |__ .gitignore                    # archivo gitignore     
 |
