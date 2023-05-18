@@ -19,9 +19,9 @@ Con este proyecto se propone la práctica de análisis tipo EDA. Para ello, hemo
 
 Para poder ver los dashboards de forma interactiva mientras se lee el proyecto, dejamos el link a continuación:
 
-- [mapa](dashboards/mapa.pbix)
-- [dashboard](dashboards/general.pbix)
-- [dashboard](dashboards/each.pbix)
+- [Mapa](dashboards/mapa.pbix)
+- [Dashboard por años](dashboards/general.pbix)
+- [Dashboard por montañas](dashboards/each.pbix)
 
 ## 🏔️ Objetivo:<a name="objetivo"/>
 
