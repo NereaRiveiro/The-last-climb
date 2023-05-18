@@ -19,7 +19,7 @@ Con este proyecto se propone la práctica de análisis tipo EDA. Para ello, hemo
 
 ## 🏔️ Objetivo:<a name="objetivo"/>
 
-El riesgo de conquistar alguna de las 14 ochomil es muy alto, las condiciones meteorológicas, las complicaciones o la aclimatación a la altitud son motivos cruciales a la hora de superarlo o no. Lamentablemente, cada año se quedan en el camino para siempre muchos de sus montañistas. De ellas, es el Everest el que más motañistas atrae al año llegando a las 800 visitas pero tenemos más dudas al respecto que nos disponemos a analizar para intentar esocger cuándo, cómo y en dónde es más seguro el ascenso:
+El riesgo de conquistar alguna de las 14 ochomil es muy alto, las condiciones meteorológicas, las complicaciones o la aclimatación a la altitud son motivos cruciales a la hora de superarlo o no. Lamentablemente, cada año se quedan en el camino para siempre muchos de sus montañistas. De ellas, es el Everest el que más motañistas atrae al año llegando a las 800 visitas pero tenemos más dudas al respecto. Nos hemos centrado principalmente en la creación de un prototipo de visualizaciones para una app que puedan utilizar futuros montañeros para analizar para intentar esocger cuándo, cómo y en dónde es más seguro el ascenso:
 
 - ¿En qué zona se encuentran las cumbres?
 - ¿Cuál es la montaña con más riesgo de fallecimiento?
