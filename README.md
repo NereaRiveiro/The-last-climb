@@ -35,7 +35,7 @@ En primer lugar, hemos decido crear un mapa para situar cada una de las cumbres 
 
 ![dashboard](./images/map.png)
 
-En el siguiente dashboard podemos observar un resumen del conjunto total de los datos. Contiene un slider con el que se puede seleccionar el rango de años del cual queremos obtener la información. Según ello, se puede saber cuáles fueron los meses con más fallecimientos, las cinco causas de muerte más habituales, en qué montaña ha fallecido más gente y de qué diez nacionalidades eran esas personas.
+En el siguiente dashboard [dashboard](dashboards/general.pbix) podemos observar un resumen del conjunto total de los datos. Contiene un slider con el que se puede seleccionar el rango de años del cual queremos obtener la información. Según ello, se puede saber cuáles fueron los meses con más fallecimientos, las cinco causas de muerte más habituales, en qué montaña ha fallecido más gente y de qué diez nacionalidades eran esas personas.
 
 La imagen muestra esos resultados filtrados desde el 1980 al 2003.
 
