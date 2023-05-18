@@ -17,9 +17,15 @@ Proyecto EDA como Data Analyst en Ironhack.
 
 Con este proyecto se propone la práctica de análisis tipo EDA. Para ello, hemos escogido analizar las muertes registradas desde el 1895 en los 14 ochomil, las 14 montañas más altas de la Tierra donde cada año intrépidos aventureros y aventureras las intentan conquistar.
 
+Para poder ver los dashboards de forma interactiva mientras se lee el proyecto, dejamos el link a continuación:
+
+- [mapa](dashboards/mapa.pbix)
+- [dashboard](dashboards/general.pbix)
+- [dashboard](dashboards/each.pbix)
+
 ## 🏔️ Objetivo:<a name="objetivo"/>
 
-El riesgo de conquistar alguna de las 14 ochomil es muy alto, las condiciones meteorológicas, las complicaciones o la aclimatación a la altitud son motivos cruciales a la hora de superarlo o no. Lamentablemente, cada año se quedan en el camino para siempre muchos de sus montañistas. De ellas, es el Everest el que más motañistas atrae al año llegando a las 800 visitas pero tenemos más dudas al respecto. Nos hemos centrado principalmente en la creación de un prototipo de visualizaciones para una app que puedan utilizar futuros montañeros para analizar para intentar esocger cuándo, cómo y en dónde es más seguro el ascenso:
+El riesgo de conquistar alguna de las 14 ochomil es muy alto, las condiciones meteorológicas, las complicaciones o la aclimatación a la altitud son motivos cruciales a la hora de superarlo o no. Lamentablemente, cada año se quedan en el camino para siempre muchos de sus montañistas. De ellas, es el Everest el que más motañistas atrae al año llegando a las 800 visitas pero tenemos más dudas al respecto. Nos hemos centrado en la creación de un prototipo de visualizaciones para una app que puedan utilizar futuros montañeros para analizar para intentar esocger cuándo, cómo y en dónde es más seguro el ascenso:
 
 - ¿En qué zona se encuentran las cumbres?
 - ¿Cuál es la montaña con más riesgo de fallecimiento?
@@ -35,14 +41,14 @@ En primer lugar, hemos decido crear un mapa para situar cada una de las cumbres 
 
 ![dashboard](./images/map.png)
 
-En el siguiente dashboard [dashboard](dashboards/general.pbix) podemos observar un resumen del conjunto total de los datos. Contiene un slider con el que se puede seleccionar el rango de años del cual queremos obtener la información. Según ello, se puede saber cuáles fueron los meses con más fallecimientos, las cinco causas de muerte más habituales, en qué montaña ha fallecido más gente y de qué diez nacionalidades eran esas personas.
+En el siguiente dashboard podemos observar un resumen del conjunto total de los datos. Contiene un slider con el que se puede seleccionar el rango de años del cual queremos obtener la información. Según ello, se puede saber cuáles fueron los meses con más fallecimientos, las cinco causas de muerte más habituales, en qué montaña ha fallecido más gente y de qué diez nacionalidades eran esas personas.
 
 La imagen muestra esos resultados filtrados desde el 1980 al 2003.
 
 ![dashboard](./images/5003.png)
 
 
-El segundo dashboard lo hemos enfocado al análisis de cada una de las cumbres por separado. Para ello hemos creado un selector interactivo mediante el cual se puede elegir la montaña deseada. De ella obtendremos la información de su altitiud, su localización en el mapa, cuántos fallecidos hay en total, en qué meses han ocurrido los desastres y cuáles han sido las siete causas más comunes.
+El segundo dashboard dashboard lo hemos enfocado al análisis de cada una de las cumbres por separado. Para ello hemos creado un selector interactivo mediante el cual se puede elegir la montaña deseada. De ella obtendremos la información de su altitiud, su localización en el mapa, cuántos fallecidos hay en total, en qué meses han ocurrido los desastres y cuáles han sido las siete causas más comunes.
 
 En esta imagen podemos ver toda esta selección de la montaña K2, conocida por ser la más peligrosa.
 
@@ -66,7 +72,7 @@ Gracias al segundo dashbord se pueden analizar más en profundidad cada una de l
 
 También podemos observar el riesgo más común en cada una siendo casi un 50% de ellas entre avalancha y caída como la más frecuente.
 
-En perspectiva, el proyecto tiene el objetico de enfocarse con una funcionalidad hacia la creación de una app en la que montañistas puedan observar gráficas de su objetivo y analizar su escalada en cuestión de época, precauciones y destino. Se facilitaría así un recurso mediante el cual tener mayor acceso al análisis de la aventura de altura.
+En perspectiva, el proyecto consigue el objetivo de enfocarse con una funcionalidad hacia la creación de una app en la que montañistas puedan observar gráficas de su objetivo y analizar su escalada en cuestión de época, precauciones y destino. Se facilitaría así un recurso mediante el cual tener mayor acceso al análisis de la aventura de altura.
 
 
 ## 🧊 Estructura:<a name="estructura"/>
